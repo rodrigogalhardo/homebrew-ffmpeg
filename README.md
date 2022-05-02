@@ -12,7 +12,7 @@ Contents:
 - [Troubleshooting](#troubleshooting)
 - [Issues](#issues)
 - [Maintainers](#maintainers)
-- [Google Docs for VP9] (https://developers.google.com/media/vp9/get-started)
+- [Google Docs for VP9](https://developers.google.com/media/vp9/get-started)
 
 ## Installation and usage
 
